@@ -20,6 +20,6 @@ First, I introduced some 21st-century fundamentals, starting with the company's 
 
 I then became the de facto one-man IT department. That meant sole ownership of everything: the SAP B1/HANA stack, all servers (on-prem/IaaS), networking, and POS systems nationwide. It also meant handling all vendor contracts, procurement, and-naturally-the 24/7 on-call support line for 100+ employees, which apparently didn't observe holidays.
 
-In my 'spare time', I built a C# reconciler to fix critical accounting errors and a Python/Puppet pipeline to automate SAFT tax submissions from SAP HANA. My final act was to replace their surprisingly resilient paper-based GDPR process with a custom web application.
+In my 'spare time', I built a C# reconciler to fix critical accounting errors and a Python pipeline to automate SAFT tax submissions from SAP HANA. My final act was to replace their surprisingly resilient paper-based GDPR process with a custom web application.
 
 I live in the terminal, enjoy wrangling databases, and get a kick out of making infrastructure predictable. I'm currently tackling the Kubernetes/Terraform stack-because, let's face it, containers are eating the world.
