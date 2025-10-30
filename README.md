@@ -15,7 +15,7 @@ The 2022 gig at **MIKE DAVIS** was... *educational*. I showed up and there was n
 
 First thing I did was introduce some basic 21st-century concepts, like the company's **first-ever domain controller**. The existing "security model" was, creatively, a *completely flat network*. Fixed that real quick, segmented it into isolated subnets (HQ, warehouse, stores).
 
-Then I became the entire IT department. **Solo**. Everything was on me: SAP B1/HANA stack, all servers (on-prem and IaaS), networking, POS systems nationwide. Oh, and all vendor contracts, procurement, and—naturally—the **24/7 support line** for 100+ employees, which *apparently didn't respect holidays*.
+Then I became the entire IT department. **Solo**. Everything was on me: SAP B1/HANA stack, all servers (on-prem and IaaS), networking, POS systems nationwide. Oh, and all vendor contracts, procurement, and, naturally, the **24/7 support line** for 100+ employees, which *apparently didn't respect holidays*.
 
 In my "spare time" I built a **C# reconciler** to fix critical accounting errors and a **Python pipeline** to automate SAFT tax submissions from SAP HANA. My final act was replacing their *surprisingly resilient* paper-based GDPR process with a custom web app.
 
