@@ -1,14 +1,20 @@
 # Vítor Fernandes
 
-**Infrastructure Engineer** specializing in automation, data pipelines, and cloud systems. I transform operational challenges into stable, scalable solutions across hybrid environments.
-
-With 9 years of experience, I've built production infrastructure from zero foundation, architected 24/7 monitoring systems, and developed ETL pipelines processing critical business data. My focus is bridging infrastructure and software engineering using Python, IaC, and data-driven automation.
+Systems engineer with 9 years of experience building, automating, and migrating production environments. My focus is on creating infrastructure and data solutions that are reliable, scalable, and efficient, eliminating manual processes through code. I have a solid background in cloud and on-premises systems administration, integration, and database optimization.
 
 ---
 
 ### Core Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D6?logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-008FD3?logo=sap&logoColor=white)
 
 ---
 
