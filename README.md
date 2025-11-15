@@ -20,9 +20,10 @@ I build and automate resilient IT systems. My focus is transforming operational 
 
 ### Recent Work
 
-- **High-Performance ETL Pipeline**: Python/PostgreSQL pipeline processing 1M records in 63s with 99.9% uptime and zero data loss
-- **Automated Tax Compliance for SAP HANA**: Python CLI tool that fully automates the SAFT-PT fiscal file lifecycle
-- **SAP Financial Reconciliation Tool**: C# application that automatically corrects systemic accounting errors in SAP B1
+- **High-Performance ETL:** Python/PostgreSQL pipeline processing 900K+ records in 63s
+- **SAP Automation:** Built C# & Python tools to fix financial errors and automate tax compliance
+- **Infrastructure Monitoring:** Developed real-time network monitoring platform from scratch
+- **Cloud Migration:** Led a complete on-prem to AWS migration, including security hardening
 
 ---
 
